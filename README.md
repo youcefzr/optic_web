@@ -2,7 +2,7 @@
 
 Site web moderne pour IN OPTIC, un opticien professionnel situé à Marseille. Développé avec React, TypeScript, et Tailwind CSS.
 
-![IN OPTIC Preview](/public/hero-background.jpg)
+
 
 ## 🚀 Technologies Utilisées
 
